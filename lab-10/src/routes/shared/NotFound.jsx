@@ -1,5 +1,5 @@
 import { paths } from '../utils/paths.js'
-import Link from './Link.jsx'
+import Link from '../routes/shared/Link.jsx'
 
 export default function NotFound() {
   return (

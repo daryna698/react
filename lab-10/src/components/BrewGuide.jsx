@@ -1,4 +1,4 @@
-import BrewTimer from './BrewTimer.jsx'
+import BrewTimer from '../routes/bean/BrewTimer.jsx'
 
 export default function BrewGuide({ methods }) {
   return (
